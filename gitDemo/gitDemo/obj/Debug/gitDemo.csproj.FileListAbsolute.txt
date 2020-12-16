@@ -1,0 +1,7 @@
+F:\Day2\gitDemo\gitDemo\bin\Debug\gitDemo.exe.config
+F:\Day2\gitDemo\gitDemo\bin\Debug\gitDemo.exe
+F:\Day2\gitDemo\gitDemo\bin\Debug\gitDemo.pdb
+F:\Day2\gitDemo\gitDemo\obj\Debug\gitDemo.csprojAssemblyReference.cache
+F:\Day2\gitDemo\gitDemo\obj\Debug\gitDemo.csproj.CoreCompileInputs.cache
+F:\Day2\gitDemo\gitDemo\obj\Debug\gitDemo.exe
+F:\Day2\gitDemo\gitDemo\obj\Debug\gitDemo.pdb
