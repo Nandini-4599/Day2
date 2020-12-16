@@ -1,6 +1,16 @@
-partial class Class2{
-Void Welcome()
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace gitDemo
 {
-Console.WriteLine("Welcome");
-}
+   partial class Program
+    {
+        void Welcome()
+        {
+            Console.WriteLine("Welcome");
+        }
+    }
 }

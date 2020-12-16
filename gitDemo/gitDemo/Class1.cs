@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace gitDemo
 {
-   partial class Class1
+  partial class Program
     {
 
-        void hello()
+       void hello()
         {
+           
             Console.WriteLine("Hello Nandini");
         }
     }
