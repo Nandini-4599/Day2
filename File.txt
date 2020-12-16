@@ -1,5 +1,9 @@
 Conflict is must
 
+<<<<<<< HEAD
 
 
 cccccccccccccccc
+=======
+conflict added
+>>>>>>> 3354e7d38631130ca267e5660e321b98cdb24694
